@@ -16,4 +16,4 @@ Building [PRISM](https://github.com/Ronkupper/PRISM) — a framework for LLM res
 
 ---
 
-> *"Feed the Starter, and the loaves will come." 
+> *"Feed the Starter, and the loaves will come."*
