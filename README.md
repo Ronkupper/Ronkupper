@@ -1,16 +1,19 @@
-## Hi there 👋
+# Ron Kuper
 
-<!--
-**Ronkupper/Ronkupper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What's next?
 
-Here are some ideas to get you started:
+Building [PRISM](https://github.com/Ronkupper/PRISM) — a framework for LLM research and audits. Multi-prompt, multi-session, context-disciplined. Currently v1.10.4.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Active workstreams
+
+- **PRISM framework** — maintaining and evolving the canonical file ([`PRISM.md`](https://github.com/Ronkupper/PRISM/blob/main/PRISM.md)). The backlog ([`PRISM_backlog.md`](https://github.com/Ronkupper/PRISM/blob/main/PRISM_backlog.md)) is where proposals live before they ship.
+- **Real-world audits** — research and product audits using PRISM as the operating system. Findings feed the next version.
+
+## Reach me
+
+- Here on GitHub
+<!-- Add any other contact surfaces you want public: Twitter/X, LinkedIn, website, email -->
+
+---
+
+> *"Feed the Starter, and the loaves will come." 
